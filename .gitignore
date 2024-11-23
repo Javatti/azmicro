@@ -1,0 +1,44 @@
+# Ignore build output
+*.o
+*.hex
+*.lst
+*.map
+
+# Ignore temporary and backup files
+*.tmp
+*.bak
+
+# Ignore IDE-specific files
+*.cvf
+*.cvi
+*.cvr
+
+# Ignore user-specific settings
+*.user
+*.suo
+
+# Ignore log files
+*.log
+
+# Ignore any other generated files or directories
+/build/
+# Ignore Proteus generated files
+*.pdsprj
+*.pdsproj
+*.pdsprj.bak
+*.pdsprj.tmp
+
+# Ignore compiled output
+*.hex
+*.asm
+*.lst
+
+# Ignore backup files
+*.bak
+
+# Ignore log files
+*.log
+
+# Ignore any other temporary files
+temp/
+

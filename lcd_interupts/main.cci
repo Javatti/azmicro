@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:5971A745
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:5 "C:\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:8 "test -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "counter -> R4,R5"
+NODE:F LEVEL:0 LINE:11 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:25 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:35 "ext_int2_isr(void)"
+NODE:F LEVEL:0 LINE:44 "main(void)"
