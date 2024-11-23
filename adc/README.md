@@ -10,7 +10,7 @@
 <div align="center"><a href="./adc.mp4" > ویدئو </div>
 <div align="center">
   
-![adc] (https://github.com/user-attachments/assets/be4f9b23-8b77-44c3-ade0-3341df3c7f14)
+![adc](https://github.com/user-attachments/assets/be4f9b23-8b77-44c3-ade0-3341df3c7f14)
 
 </div> 
 
