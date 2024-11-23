@@ -8,6 +8,9 @@
 - نشان دادن همچنین مقدار درصد با استفاده از 4 ال ای ی به تناسب *0-25* و *26-50* و *51-75* و *76-100*
 ![image](./adc.jpg)
 <div align="center"><a href="./adc.mp4" > ویدئو </div>
+<div align="center">
+![adc](https://github.com/user-attachments/assets/be4f9b23-8b77-44c3-ade0-3341df3c7f14)
+</div> 
 
 
 
