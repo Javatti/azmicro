@@ -1,6 +1,5 @@
 # Ignore build output
 *.o
-*.hex
 *.lst
 *.map
 
@@ -23,13 +22,13 @@
 # Ignore any other generated files or directories
 /build/
 # Ignore Proteus generated files
-*.pdsprj
 *.pdsproj
 *.pdsprj.bak
 *.pdsprj.tmp
+*.workspace
+**/Project Backups
 
 # Ignore compiled output
-*.hex
 *.asm
 *.lst
 
@@ -39,6 +38,5 @@
 # Ignore log files
 *.log
 
-# Ignore any other temporary files
-temp/
 
+/adc/Project Backups
