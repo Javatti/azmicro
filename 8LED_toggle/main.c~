@@ -22,6 +22,7 @@ while (1)
       int i;
       
       for(i=0;i<9;i++){
+      
       /* ba estefade az tabee tavan resondan adadd
        miam va dar zarib 2 az tavn 0 ta tavan 8 ro eemal mikonim ta be tartip
        2^0 = 1   0b1
@@ -35,6 +36,12 @@ while (1)
        2^8 = 256 0b10000000
        bar roy port ejra beshe
        */
+      int value = pow(2.00,i);
+      PORTA = value ;
+      delay_ms(500);
+       }
+       
+      for(i=8;i>=0;i--){
       int value = pow(2.00,i);
       PORTA = value ;
       delay_ms(500);

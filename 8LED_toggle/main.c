@@ -20,7 +20,7 @@ PORTA=(0<<PORTA7) | (0<<PORTA6) | (0<<PORTA5) | (0<<PORTA4) | (0<<PORTA3) | (0<<
 while (1)
       { 
       int i;
-      
+      // dor aval cheshmak
       for(i=0;i<9;i++){
       
       /* ba estefade az tabee tavan resondan adadd
@@ -36,6 +36,12 @@ while (1)
        2^8 = 256 0b10000000
        bar roy port ejra beshe
        */
+      int value = pow(2.00,i);
+      PORTA = value ;
+      delay_ms(500);
+       }
+      // dor dovom cheshmak
+      for(i=8;i>=0;i--){
       int value = pow(2.00,i);
       PORTA = value ;
       delay_ms(500);
