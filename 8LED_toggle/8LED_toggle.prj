@@ -27,7 +27,7 @@ Active0=0
 EditorPanel0=0
 PageIndex0=0
 EditorPanel1=0
-TimeStamp1=1501472507
+TimeStamp1=1501736018
 PageIndex1=1
 [CompilerDebug]
 Chip=ATmega32
@@ -128,7 +128,7 @@ UseEEPROMLocation0=1
 RebuildAll=0
 LinkageInformationPresent=1
 COFFileTimeStamp=1501736021
-Build=9
+Build=10
 [DefinedSymbolsDebug]
 Count=0
 [Compiler]
@@ -230,7 +230,7 @@ UseEEPROMLocation0=1
 RebuildAll=1
 LinkageInformationPresent=0
 COFFileTimeStamp=-1
-Build=9
+Build=10
 [DefinedSymbols]
 Count=0
 [CompilerAdvanced]
@@ -372,16 +372,16 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1501472847
+TimeStamp=1501739362
 [BookmarksFoldedCode]
 Files=1
 F1=main.c
 [Bookmarks1]
-TimeStamp=1501472507
-Row=40
-Column=25
+TimeStamp=1501736018
+Row=42
+Column=18
 ScrollPosX=0
-ScrollPosY=30
+ScrollPosY=31
 BK0=-1
 BK1=-1
 BK2=-1
@@ -392,8 +392,6 @@ BK6=-1
 BK7=-1
 BK8=-1
 BK9=-1
-[FoldedCode1]
-Blocks=0
 [HeadersList]
 Files=1
 F1=C:\Users\asus\Desktop\azmicro\8LED_toggle\main.c
@@ -403,3 +401,5 @@ F1=C:\cvavr\inc\mega32.h
 F2=C:\cvavr\inc\mega32_bits.h
 F3=C:\cvavr\inc\delay.h
 F4=C:\cvavr\inc\math.h
+[FoldedCode1]
+Blocks=0
